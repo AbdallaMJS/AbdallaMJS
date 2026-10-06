@@ -27,11 +27,11 @@ I believe in demonstrating competency through building from scratch. Here are my
 
 | &nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Category&nbsp;&nbsp;&nbsp;&nbsp; | Description | Key Skills Demonstrated |
 |---------|----------|-------------|-------------------------|
-| 🔬 [**numpy&#8209;neural&#8209;network**](https://github.com/AbdallaMJS/numpy-neural-network) | Foundational&nbsp;AI | A Multi-Layer Perceptron built entirely from scratch using only NumPy to solve XOR. | Linear Algebra, Calculus, Backpropagation, Gradient Descent |
-| 📊 [**naive&#8209;bayes&#8209;classifier**](https://github.com/AbdallaMJS/naive-bayes-classifier-scratch) | Foundational&nbsp;AI | A Multinomial Naive Bayes text classifier built purely in Python without external ML libraries. | Probability, Bayes' Theorem, Laplace Smoothing, NLP |
-| 🗺️ [**astar&#8209;pathfinding**](https://github.com/AbdallaMJS/astar-pathfinding-visualizer) | Algorithms | An implementation of the A* heuristic search algorithm with a real-time console visualizer. | Data Structures (Priority Queues), Algorithmic Optimization |
-| 🔍 [**anti&#8209;algorithm**](https://github.com/AbdallaMJS/anti-algorithm) | Explainable&nbsp;AI | An XAI recommendation prototype that uses Euclidean distance to suggest opposite matches transparently. | Explainable AI (XAI), Distance Metrics, Interface Design |
-| ⏳ [**time&#8209;capsule&#8209;internet**](https://github.com/AbdallaMJS/time-capsule-internet) | Software&nbsp;Eng. | A Python app capturing web snapshots and using perceptual hashing to detect visual structural changes. | Browser Automation, Image Hashing, Data Tracking |
+| [**numpy&#8209;neural&#8209;network**](https://github.com/AbdallaMJS/numpy-neural-network) | Foundational&nbsp;AI | A Multi-Layer Perceptron built entirely from scratch using only NumPy to solve XOR. | Linear Algebra, Calculus, Backpropagation, Gradient Descent |
+| [**naive&#8209;bayes&#8209;classifier**](https://github.com/AbdallaMJS/naive-bayes-classifier-scratch) | Foundational&nbsp;AI | A Multinomial Naive Bayes text classifier built purely in Python without external ML libraries. | Probability, Bayes' Theorem, Laplace Smoothing, NLP |
+| [**astar&#8209;pathfinding**](https://github.com/AbdallaMJS/astar-pathfinding-visualizer) | Algorithms | An implementation of the A* heuristic search algorithm with a real-time console visualizer. | Data Structures (Priority Queues), Algorithmic Optimization |
+| [**anti&#8209;algorithm**](https://github.com/AbdallaMJS/anti-algorithm) | Explainable&nbsp;AI | An XAI recommendation prototype that uses Euclidean distance to suggest opposite matches transparently. | Explainable AI (XAI), Distance Metrics, Interface Design |
+| [**time&#8209;capsule&#8209;internet**](https://github.com/AbdallaMJS/time-capsule-internet) | Software&nbsp;Eng. | A Python app capturing web snapshots and using perceptual hashing to detect visual structural changes. | Browser Automation, Image Hashing, Data Tracking |
 
 ## 🛠️ Skills & Technologies
 
