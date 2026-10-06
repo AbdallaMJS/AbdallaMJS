@@ -15,19 +15,33 @@ I am currently seeking admission to the **MBZUAI Undergraduate AI program**, and
 
 I believe in demonstrating competency through building from scratch. Here are my key repositories:
 
-### 🧠 Foundational AI & Algorithms
-- 🔬 [**numpy-neural-network**](https://github.com/AbdallaMJS/numpy-neural-network): A Multi-Layer Perceptron built entirely from scratch using only NumPy. Demonstrates a firm grasp of linear algebra, calculus, forward/backpropagation, and gradient descent by solving the non-linear XOR problem.
-- 📊 [**naive-bayes-classifier-scratch**](https://github.com/AbdallaMJS/naive-bayes-classifier-scratch): A Multinomial Naive Bayes text classifier built purely in Python. Showcases understanding of probability, Bayes' Theorem, Laplace smoothing, and log-probabilities for NLP.
-- 🗺️ [**astar-pathfinding-visualizer**](https://github.com/AbdallaMJS/astar-pathfinding-visualizer): An implementation of the A* heuristic search algorithm with a real-time console visualizer. Demonstrates competency in data structures (priority queues) and algorithmic optimization.
-
-### ⚙️ Software Engineering & Applied Systems
-- 🔍 [**anti-algorithm**](https://github.com/AbdallaMJS/anti-algorithm): An Explainable AI (XAI) recommendation prototype. Uses Euclidean distance calculations to suggest "anti-matches" while transparently explaining the mathematical reasoning to the user.
-- ⏳ [**time-capsule-internet**](https://github.com/AbdallaMJS/time-capsule-internet): A Python and Streamlit application that captures web snapshots and uses perceptual image hashing to detect structural visual changes over time.
+| Project | Category | Description | Key Skills Demonstrated |
+|---------|----------|-------------|-------------------------|
+| 🔬 [**numpy-neural-network**](https://github.com/AbdallaMJS/numpy-neural-network) | Foundational AI | A Multi-Layer Perceptron built entirely from scratch using only NumPy to solve XOR. | Linear Algebra, Calculus, Backpropagation, Gradient Descent |
+| 📊 [**naive-bayes-classifier**](https://github.com/AbdallaMJS/naive-bayes-classifier-scratch) | Foundational AI | A Multinomial Naive Bayes text classifier built purely in Python without external ML libraries. | Probability, Bayes' Theorem, Laplace Smoothing, NLP |
+| 🗺️ [**astar-pathfinding**](https://github.com/AbdallaMJS/astar-pathfinding-visualizer) | Algorithms | An implementation of the A* heuristic search algorithm with a real-time console visualizer. | Data Structures (Priority Queues), Algorithmic Optimization |
+| 🔍 [**anti-algorithm**](https://github.com/AbdallaMJS/anti-algorithm) | Explainable AI | An XAI recommendation prototype that uses Euclidean distance to suggest opposite matches transparently. | Explainable AI (XAI), Distance Metrics, Interface Design |
+| ⏳ [**time-capsule-internet**](https://github.com/AbdallaMJS/time-capsule-internet) | Software Eng. | A Python app capturing web snapshots and using perceptual hashing to detect visual structural changes. | Browser Automation, Image Hashing, Data Tracking |
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, Java, JavaScript
-- **Core Competencies:** Data Structures & Algorithms, Machine Learning Mathematics, Explainable AI (XAI), OOP
-- **Tools:** Streamlit, NumPy, Pandas, Selenium, Git
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Libraries
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Core Competencies
+![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_&_Algorithms-4285F4?style=for-the-badge&logoColor=white)
+![Machine Learning Mathematics](https://img.shields.io/badge/Machine_Learning_Mathematics-EA4335?style=for-the-badge&logoColor=white)
+![Explainable AI (XAI)](https://img.shields.io/badge/Explainable_AI_(XAI)-FBBC05?style=for-the-badge&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-34A853?style=for-the-badge&logoColor=white)
 
 ## 🏆 Selected Distinctions
 - **1st Place:** Khalifa Fund Summer Camp 2026 (Game Development)
