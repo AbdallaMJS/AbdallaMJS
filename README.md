@@ -65,7 +65,7 @@ I believe in demonstrating competency through building from scratch. Here are my
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AbdallaMJS&theme=radical&title=MultiLanguage,LongTimeUser,NewUser,Repositories,Commits&column=5" alt="Abdalla's Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AbdallaMJS&theme=radical&title=Repositories,Commits&column=2" alt="Abdalla's Trophies" />
 </p>
 
 ---
