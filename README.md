@@ -25,7 +25,7 @@ I am currently seeking admission to the **MBZUAI Undergraduate AI program**, and
 
 I believe in demonstrating competency through building from scratch. Here are my key repositories:
 
-| Project <br> <img width="240" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Category <br> <img width="150" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Description <br> <img width="250" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Key Skills Demonstrated <br> <img width="250" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> |
+| Project <br> <img width="190" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Category <br> <img width="130" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Description <br> <img width="290" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Key Skills Demonstrated <br> <img width="180" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> |
 | :---: | :---: | :--- | :--- |
 | 🔬 [**numpy&#8209;neural&#8209;network**](https://github.com/AbdallaMJS/numpy-neural-network) | Foundational&nbsp;AI | A Multi-Layer Perceptron built entirely from scratch using only NumPy to solve XOR. | Linear Algebra, Calculus, Backpropagation, Gradient Descent |
 | 📊 [**naive&#8209;bayes&#8209;classifier**](https://github.com/AbdallaMJS/naive-bayes-classifier-scratch) | Foundational&nbsp;AI | A Multinomial Naive Bayes text classifier built purely in Python without external ML libraries. | Probability, Bayes' Theorem, Laplace Smoothing, NLP |
