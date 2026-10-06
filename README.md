@@ -1,3 +1,13 @@
+![](assets/header_.png)
+
+<p align="center">
+  <img src="assets/Bottom_up.svg" alt="Welcome Wave" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Abdalla+M.J.S.+Alblooshi;Future+MBZUAI+Undergraduate+AI+Student;Passionate+About+Machine+Learning+%26+Math;Python,+Software+Engineering,+Algorithms" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Abdalla M.J.S. Alblooshi
 
 I am an Advanced Science Program (ASP) graduate with a deep passion for Artificial Intelligence, Mathematics, and Computer Science. My goal is to build intelligent systems that are transparent, efficient, and solve real-world problems.
