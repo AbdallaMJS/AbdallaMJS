@@ -57,7 +57,7 @@ I believe in demonstrating competency through building from scratch. Here are my
 - **1st Place:** Khalifa Fund Summer Camp 2026 (Game Development)
 - **Extensive Preparatory AI Training:** Completed MBZUAI-recommended coursework from Imperial College London, University of Zurich, and IBM, covering Linear Algebra, Probability, Calculus, and ML Foundations.
 
-📫 **Contact:** [amjsalblooshi@gmail.com](mailto:amjsalblooshi@gmail.com) | [LinkedIn](#)
+
 
 
 ---
@@ -72,3 +72,6 @@ I believe in demonstrating competency through building from scratch. Here are my
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
+---
+
+📫 **Contact:** [amjsalblooshi@gmail.com](mailto:amjsalblooshi@gmail.com) | [LinkedIn](#)
