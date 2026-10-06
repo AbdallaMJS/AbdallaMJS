@@ -25,8 +25,8 @@ I am currently seeking admission to the **MBZUAI Undergraduate AI program**, and
 
 I believe in demonstrating competency through building from scratch. Here are my key repositories:
 
-| Project <br> <img width="240" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Category <br> <img width="150" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Description | Key Skills Demonstrated |
-|---------|----------|-------------|-------------------------|
+| Project <br> <img width="240" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Category <br> <img width="150" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Description <br> <img width="250" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> | Key Skills Demonstrated <br> <img width="250" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" /> |
+| :---: | :---: | :--- | :--- |
 | 🔬 [**numpy&#8209;neural&#8209;network**](https://github.com/AbdallaMJS/numpy-neural-network) | Foundational&nbsp;AI | A Multi-Layer Perceptron built entirely from scratch using only NumPy to solve XOR. | Linear Algebra, Calculus, Backpropagation, Gradient Descent |
 | 📊 [**naive&#8209;bayes&#8209;classifier**](https://github.com/AbdallaMJS/naive-bayes-classifier-scratch) | Foundational&nbsp;AI | A Multinomial Naive Bayes text classifier built purely in Python without external ML libraries. | Probability, Bayes' Theorem, Laplace Smoothing, NLP |
 | 🗺️ [**astar&#8209;pathfinding**](https://github.com/AbdallaMJS/astar-pathfinding-visualizer) | Algorithms | An implementation of the A* heuristic search algorithm with a real-time console visualizer. | Data Structures (Priority Queues), Algorithmic Optimization |
