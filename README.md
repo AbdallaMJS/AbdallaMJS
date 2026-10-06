@@ -58,3 +58,21 @@ I believe in demonstrating competency through building from scratch. Here are my
 - **Extensive Preparatory AI Training:** Completed MBZUAI-recommended coursework from Imperial College London, University of Zurich, and IBM, covering Linear Algebra, Probability, Calculus, and ML Foundations.
 
 📫 **Contact:** [amjsalblooshi@gmail.com](mailto:amjsalblooshi@gmail.com) | [LinkedIn](#)
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AbdallaMJS&theme=radical&title=MultiLanguage,LongTimeUser,NewUser,Repositories,Commits&column=5" alt="Abdalla's Trophies" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
