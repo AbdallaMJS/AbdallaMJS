@@ -64,15 +64,11 @@ I believe in demonstrating competency through building from scratch. Here are my
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AbdallaMJS&theme=radical&title=Repositories,Commits&column=2" alt="Abdalla's Trophies" />
-</p>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AbdallaMJS&theme=radical&title=Repositories,Commits&column=2" alt="Abdalla's Trophies" />
 
 ---
 
 ## 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
